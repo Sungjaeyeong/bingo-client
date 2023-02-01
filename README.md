@@ -2,7 +2,6 @@
 ![](https://img.shields.io/badge/BINGO-webservice-lightgrey)
 
 # 🎯 BI_NGO
-<img src=https://ifh.cc/g/LypO4l.png />
 
 사회단체 후원활동에 재미와 편리함을 더하다
 
@@ -33,8 +32,6 @@ BINGO에서 사회적 가치를 구입하고,
 ![](https://img.shields.io/badge/Back-MySQL-blue)
 
 
-<img width="1781" alt="TechStack" src="https://ifh.cc/g/qmBsym.jpg">
-
 ![bingo](https://user-images.githubusercontent.com/46963394/115964750-ddb4f700-a560-11eb-8852-15fb11603889.png)
 
 
@@ -42,7 +39,6 @@ BINGO에서 사회적 가치를 구입하고,
 # 🔨 Architecture
 
 ### Client-Side Storyboard flow chart
-![ezgif com-resize](https://ifh.cc/g/BYUCO6.png)
 
 ### Server flow chart
 ![Mind Map](https://user-images.githubusercontent.com/46963394/116099943-6d84ad80-a6e7-11eb-9ae5-4160de69a3a8.jpg)
